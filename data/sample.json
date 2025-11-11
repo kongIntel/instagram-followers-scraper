@@ -1,0 +1,13 @@
+[
+  {
+    "id": "user_id_1",
+    "full_name": "John Doe",
+    "profile_pic_url": "https://linktotheprofilepic.com",
+    "is_verified": true,
+    "followed_by_viewer": false,
+    "username": "johndoe123",
+    "requested_by_viewer": true,
+    "creators_username": "mainprofile",
+    "status": "Not Following"
+  }
+]
